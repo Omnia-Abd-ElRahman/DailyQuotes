@@ -1,0 +1,51 @@
+body{
+  background-image: url(../img/maple-leaf-border-background-orange-watercolor-autumn-season.jpg);
+  background-size: cover;
+  background-position:center;
+  background-repeat: none;
+  height: 100vh;
+}
+h1{
+  font-family: "EB Garamond", serif;
+  font-weight: 900;
+  line-height: 50px;
+  font-style: italic;
+  font-size: 60px;
+  color: rgb(61, 3, 1);
+  
+}
+p{
+  font-family: "EB Garamond", serif;
+  font-weight: 700;
+  line-height: 50px;
+  font-style:oblique;
+  font-size: 40px;
+  color: rgb(100, 25, 45);
+}
+.btn-lg{
+  font-size: 20px;
+  border: none;
+  background-color: rgb(171, 136, 109);
+  color: #ffffff;
+  font-weight: 700;
+  box-shadow: 1px 2px  #493628;
+}
+.btn-lg:hover{
+  background-color: rgb(255, 221, 174);
+  color: #493628;
+  font-weight: 700;
+  box-shadow:1px 2px rgb(245, 201, 139);
+}
+h3{
+  font-size: 25px;
+  font-family: "Cinzel", serif;
+  color: #493628;
+  font-weight: 700;
+  
+}
+h5{
+  font-size: 23px;
+  font-family: "Cinzel", serif;
+  color: #493628;
+  
+}
